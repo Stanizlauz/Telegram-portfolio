@@ -16,7 +16,7 @@ export default function Contact() {
 
   return (
     <>
-      <section className="bg-light">
+      <section className="bg-light" id="contacts">
         <main className="contact-page-wrapper">
           <div className="container">
             <div className="row">
