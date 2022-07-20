@@ -41,6 +41,11 @@ export default function Header() {
                   Services
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link font-weight-bold text-white" href="#contacts">
+                  Let's Talk
+                </a>
+              </li>
             </ul>
             <span className="navbar-text">
               Navbar text with an inline element
@@ -151,19 +156,19 @@ export default function Header() {
                       data-animation="animated fadeInRight"
                     >
                       <li>
-                        <a href="#!" className="link-hover-fx">
-                          FACEBOOK
+                        <a href="https://t.me/Experthelen" className="link-hover-fx">
+                          Telegram
                         </a>
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           TWITTER
-                        </a>
+                        </a> */}
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           BEHANCE
-                        </a>
+                        </a> */}
                       </li>
                     </ul>
                   </div>
@@ -205,19 +210,19 @@ export default function Header() {
                       data-animation="animated fadeInRight"
                     >
                       <li>
-                        <a href="#!" className="link-hover-fx">
-                          FACEBOOK
+                        <a href="https://t.me/Experthelen" className="link-hover-fx">
+                          Telegram
                         </a>
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           TWITTER
-                        </a>
+                        </a> */}
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           BEHANCE
-                        </a>
+                        </a> */}
                       </li>
                     </ul>
                   </div>
@@ -259,19 +264,19 @@ export default function Header() {
                       data-animation="animated fadeInRight"
                     >
                       <li>
-                        <a href="#!" className="link-hover-fx">
-                          FACEBOOK
+                        <a href="https://t.me/Experthelen" className="link-hover-fx">
+                          Telegram
                         </a>
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           TWITTER
-                        </a>
+                        </a> */}
                       </li>
                       <li>
-                        <a href="#!" className="link-hover-fx">
+                        {/* <a href="#!" className="link-hover-fx">
                           BEHANCE
-                        </a>
+                        </a> */}
                       </li>
                     </ul>
                   </div>
