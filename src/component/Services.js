@@ -85,9 +85,9 @@ export default function Services() {
           </div>
         </div>
         <br /> <br />
-        <div className="container aos-init aos-animate bg-info" data-aos="fade-up">
+        <div className="container aos-init aos-animate bg-light" data-aos="fade-up">
           <div className="section-title">
-            <h2>Facts</h2>
+            <h2 className="section-title career-section-title">Facts</h2>
             <hr/>
           </div>
           <div className="row">
