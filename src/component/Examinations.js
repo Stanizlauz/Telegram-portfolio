@@ -8,7 +8,7 @@ export default function Examinations() {
           <div className="d-flex flex-row align-items-center" />
           <div className="heading mt-2">
             {" "}
-            <span>Examinations</span>{" "}
+            <span className="section-title career-section-title">Examinations</span>{" "}
           </div>
           <div className="row mt-1 g-4 mx-2">
             <div className="col-md-4 mt-2">
