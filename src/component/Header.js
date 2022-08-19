@@ -47,9 +47,9 @@ export default function Header() {
                 </a>
               </li>
             </ul>
-            <span className="navbar-text">
+            {/* <span className="navbar-text">
               Navbar text with an inline element
-            </span>
+            </span> */}
           </div>
         </nav>
 

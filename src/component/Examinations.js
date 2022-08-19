@@ -29,7 +29,7 @@ export default function Examinations() {
                   <span>GENERAL INDUSTRY/PRODUCTS EXAM</span>
                   <div className="dummytext mt-1">
                     {" "}
-                    <span>Examination Sept 11, 2015</span> <br />
+                    <span>Examination Mar 25, 2008</span> <br />
                     <br />
                     <span className="font-weight-bold">
                       Series 7 - General Securities Representative
@@ -73,10 +73,10 @@ export default function Examinations() {
                   <span>STATE SECURITIES LAW EXAM</span>
                   <div className="dummytext mt-1">
                     {" "}
-                    <span>Examination Oct 21, 2018</span> <br />
+                    <span>Examination Mar 31, 1998</span> <br />
                     <br />
                     <span className="font-weight-bold">
-                      Series 63 - Uniform Securities Agent State Law
+                    Series 65 - Uniform Investment Adviser Law Examination
                     </span>{" "}
                   </div>
                 </div>
